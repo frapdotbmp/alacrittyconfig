@@ -1,0 +1,49 @@
+window:
+  title: term
+ 
+  opacity: 1
+
+  padding:
+    x: 40
+    y: 40
+
+  dimensions:
+    columns: 40
+    lines: 10
+
+font:
+  normal:
+    family: FiraCode Nerd Font
+    style: Medium
+
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold
+
+  size: 9.0
+      
+colors:
+  primary:
+    background: '0xfefefe'
+    foreground: '0x101010'
+
+  normal:
+    white:   '0xcbced3'
+    cyan:    '0x93cee9'
+    magenta: '0xc296eb'
+    blue:    '0x4d82c8'
+    yellow:  '0xceac67'
+    green:   '0x69b373'
+    red:     '0xbd3c42'
+
+  bright:
+    white:   '0xd0d3d8'
+    cyan:    '0x98d3ee'
+    magenta: '0xc79bf0'
+    blue:    '0x8baff1'
+    yellow:  '0xf1d8a5'
+    green:   '0x95d3af'
+    red:     '0xe26c7c'
+
+cursor:
+  style: Beam
